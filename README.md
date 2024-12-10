@@ -9,7 +9,7 @@ In this project, I made a simple app using Streamlit which implements a face rec
 
 This is how it looks like:
 
-**(image to be inserted here)**
+![App Layout](/images/app_layout.png)
 
 # How to use the app
 
@@ -17,7 +17,7 @@ This is how it looks like:
 2. Click on "Detect faces!" button
 3. The image with bounding boxes and labels for each box will appear right below
 
-**(image to be inserted)**
+![App Layout after processing image](/images/app_detected_faces.png)
 
 4. If you want to download the image with the boxes, click on "Download image" (notice this will reload the app)
 
